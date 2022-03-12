@@ -2,11 +2,14 @@
 
 ## Personal Information
 A computer science PHD student at BeiHang University. 
+
 Intested in 3D reconstruction, 3D point cloud understanding, deep learning based camera localization.
 
 ## Education Eexperience
 2009-2013, Chongqing University, Mathematics and Applied Mathematics
+
 2013-2016, Beihang University,   Computer Science and Technology
+
 2018-Now,  Beihang University,   Computer Science and Technology
 
 ## Research Field
