@@ -1,28 +1,17 @@
 # Junyi Wang Homepage
 
 ## Personal Information
+A computer science PHD student at BeiHang University. 
+Intested in 3D reconstruction, 3D point cloud understanding, deep learning based camera localization.
 
+## Education Eexperience
+2009-2013, Chongqing University, Mathematics and Applied Mathematics
+2013-2016, Beihang University,   Computer Science and Technology
+2018-Now,  Beihang University,   Computer Science and Technology
 
+## Research Field
+Camera localization, SLAM, Scene understanding, Deep network
 
-You can use the [editor on GitHub](https://github.com/Wang-Jun-yi/wangjy.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
+## Publications
+**Junyi Wang**, Yue Qi, Camera Relocalization using Deep Point Cloud Generation and Hand-crafted Feature Refinement, 2021 IEEE International Conference on Robotics and Automation (ICRA), May 30 - June 5, 2021：5891-5897，Xian， China
 
