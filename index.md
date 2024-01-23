@@ -22,7 +22,7 @@ Camera localization, SLAM, Object pose estimation.
 
 **Junyi Wang**, Yue Qi, Deep 6-DoF camera relocalization in variable and dynamic scenes by multitask learning[J]. Machine Vision and Applications, 2023, 34(3): 37.
 
-**Junyi Wang**, Yue Qi, Multi-task Learning and Joint Refinement between Camera Localization and Object Detection, Computational Visual Media (Accepted).
+**Junyi Wang**, Yue Qi, Multi-task Learning and Joint Refinement between Camera Localization and Object Detection, Computational Visual Media (Accepted).
 
 **Junyi Wang**, Yue Qi, Visual Camera Relocalization using both Hand-crafted and Learned Features, Pattern Recognition, 2023: 109914.
 
